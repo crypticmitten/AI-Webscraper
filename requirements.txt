@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-ollama
 selenium
 beautifulsoup4
 lxml
